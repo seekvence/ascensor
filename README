@@ -1,0 +1,22 @@
+JQUERY.ASCENSOR.JS
+Ascensor is a plugin that manage and adapts the content to fit the window. Subsequently, he created a navigation system and links as needed.
+Ascensor identifies div child of the container selected, and he make one floor per containter founded.
+
+
+EXEMPLE
+http://www.kirkas.ch/ascensor
+
+
+LINK
+Ascensor is based on the plugin scrollto (http://plugins.jquery.com/project/ScrollTo).
+Ascensor plugin link : http://kirkas.ch/ascensor/js/jquery.ascensor.js
+
+
+FEATURES
+- Make every div child a stage of the site
+- Add in every div a link for the next div (true/false)
+- Create a visual navigation (true/false)
+- Deactivate the arrow key (true/false)
+- Adapt and scroll to the active content)
+- Create friendly Code.
+- URL logical support
